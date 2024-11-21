@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using lr12_bd.Data;
 using lr12_bd.Models;
 
-namespace YourNamespace.Controllers
+namespace lr12_bd.Controllers
 {
     public class CompaniesController : Controller
     {
